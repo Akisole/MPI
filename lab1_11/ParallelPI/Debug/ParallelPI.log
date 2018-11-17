@@ -1,0 +1,5 @@
+﻿ParallelPI.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size@8 в функции _main
+ParallelPI.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank@8 в функции _main
+ParallelPI.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init@8 в функции _main
+ParallelPI.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize@0 в функции _main
+c:\users\alexandra\documents\visual studio 2015\Projects\ParallelPI\Debug\ParallelPI.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
