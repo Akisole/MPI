@@ -1,0 +1,12 @@
+﻿  ParallelPII.cpp
+ParallelPII.cpp(200): warning C4101: status: неиспользованная локальная переменная
+ParallelPII.cpp(205): warning C4101: Max_iter: неиспользованная локальная переменная
+ParallelPII.cpp(392): warning C4101: DirectionVector_local: неиспользованная локальная переменная
+ParallelPII.cpp(390): warning C4101: XVector_local: неиспользованная локальная переменная
+ParallelPII.cpp(383): warning C4101: Bloc_Gradient_Vector: неиспользованная локальная переменная
+ParallelPII.cpp(371): warning C4101: CorrectResult: неиспользованная локальная переменная
+ParallelPII.cpp(371): warning C4101: icol: неиспользованная локальная переменная
+ParallelPII.cpp(392): warning C4101: ResidueVector_local: неиспользованная локальная переменная
+ParallelPII.cpp(390): warning C4101: AMatDirect_local: неиспользованная локальная переменная
+  ParallelPII.vcxproj -> G:\visual studio 2015 Projects\ParallelPI\x64\Debug\ParallelPII.exe
+  ParallelPII.vcxproj -> G:\visual studio 2015 Projects\ParallelPI\x64\Debug\ParallelPII.pdb (Full PDB)
